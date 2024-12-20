@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#light{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: black;
+}
+
+#light button{
+    padding: 20px 30px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+#random{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #777
+}
+
+#random button{
+    padding: 20px 30px;
+    cursor: pointer;
+}
